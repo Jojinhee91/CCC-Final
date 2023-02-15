@@ -1,6 +1,7 @@
 # CCC-Final
 
-![212936006-f712dda9-7ad5-47de-93c2-b396ade4e322](https://user-images.githubusercontent.com/120001999/218313104-147e1d30-4119-434d-ba05-803e6663e3de.png)
+![메인페이지](https://user-images.githubusercontent.com/120001999/218314191-a71ab7e7-8306-4dd6-a10e-0a7cd576ff3c.jpg)
+
 
 Create Character <br>
 Challenge Character <br>
@@ -54,7 +55,7 @@ Choose Character <b>by. Hard Charac </b>
 
 <hr><br><br><br><br>
 
-<h1> 담당 기능 설명 : </h1> <br><br>
+<h1> 담당 기능 설명 : 굿즈샵 전체 개발 및  / 캐캐캐 메인 화면 디자인 </h1> <br><br>
 
 
 ![메인페이지](https://user-images.githubusercontent.com/120001999/218314191-a71ab7e7-8306-4dd6-a10e-0a7cd576ff3c.jpg)
@@ -100,6 +101,7 @@ DB에 저장된 판매가에 맞춰서 할인 판매가와 쿠폰 적용가가 �
 
 
 
+![212936006-f712dda9-7ad5-47de-93c2-b396ade4e322](https://user-images.githubusercontent.com/120001999/218313104-147e1d30-4119-434d-ba05-803e6663e3de.png)
 
 
 
